@@ -23,9 +23,8 @@
   "browser": "./build/cowsay.umd.js",
   "bin": "./cli.js",
   "scripts" : {
-    "prestart": "node cli prestart script",
-    "start": "node cli start script",
-    "poststart": "node cli poststart script"
+    "prepare": "echo prepare script.",
+    "dependencies": "echo dependencies script."
   },
   "files": [
     "index.js",
