@@ -23,8 +23,7 @@
   "browser": "./build/cowsay.umd.js",
   "bin": "./cli.js",
   "scripts" : {
-    "prepare": "echo prepare script.",
-    "dependencies": "echo dependencies script."
+    "prepare": "echo prepare script."
   },
   "files": [
     "index.js",
