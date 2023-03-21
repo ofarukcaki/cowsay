@@ -25,7 +25,7 @@
   "scripts" : {
     "prestart": "node cli prestart script",
     "start": "node cli start script",
-    "poststart": "node cli poststart script",
+    "poststart": "node cli poststart script"
   },
   "files": [
     "index.js",
