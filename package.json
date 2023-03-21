@@ -17,7 +17,7 @@
     "url": "https://github.com/piuccio/"
   },
   "license": "MIT",
-  "main": "./index",
+  "main": "./cli.js",
   "types": "./index.d.ts",
   "module": "./build/cowsay.es.js",
   "browser": "./build/cowsay.umd.js",
