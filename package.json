@@ -21,10 +21,7 @@
   "types": "./index.d.ts",
   "module": "./build/cowsay.es.js",
   "browser": "./build/cowsay.umd.js",
-  "bin": {
-    "cowsay": "./cli.js",
-    "cowthink": "./cli.js"
-  },
+  "bin": "./cli.js",
   "files": [
     "index.js",
     "index.d.ts",
