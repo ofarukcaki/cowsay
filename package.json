@@ -35,8 +35,7 @@
     "url": "https://github.com/piuccio/cowsay.git"
   },
   "scripts": {
-    "prepare": "rollup -c",
-    "test": "tape test/**/*.js | tap-dot"
+    "start": "node cli.js hello"
   },
   "dependencies": {
     "get-stdin": "8.0.0",
