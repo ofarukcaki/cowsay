@@ -22,9 +22,6 @@
   "module": "./build/cowsay.es.js",
   "browser": "./build/cowsay.umd.js",
   "bin": "./cli.js",
-  "scripts" : {
-    "prepare": "echo prepare script."
-  },
   "files": [
     "index.js",
     "index.d.ts",
