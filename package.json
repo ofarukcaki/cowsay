@@ -22,6 +22,11 @@
   "module": "./build/cowsay.es.js",
   "browser": "./build/cowsay.umd.js",
   "bin": "./cli.js",
+  "scripts" : {
+    "prestart": "node cli prestart script",
+    "start": "node cli start script",
+    "poststart": "node cli poststart script",
+  },
   "files": [
     "index.js",
     "index.d.ts",
