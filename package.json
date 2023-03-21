@@ -34,9 +34,6 @@
     "type": "git",
     "url": "https://github.com/piuccio/cowsay.git"
   },
-  "scripts": {
-    "start": "node cli.js hello"
-  },
   "dependencies": {
     "get-stdin": "8.0.0",
     "string-width": "~2.1.1",
